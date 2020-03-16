@@ -1,0 +1,1 @@
+[CV markdown](https://malsemik.github.io/rsschool-cv/cv)
